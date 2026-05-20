@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:212225230231
-# Name:SABARINATHAN A
-# Date:19.05.2026
+# Reg No: 212225230139
+# Name: KIRIT LULLA
+# Date: 20.05.2026
 
 
 # AIM:
